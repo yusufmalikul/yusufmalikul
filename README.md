@@ -1,6 +1,8 @@
 ### Hi there, I'm Yusuf! 👋
 
 I love backend stuff.
+I use Go daily.
+I know some Javascript and Python.
 
 <!--
 **yusufmalikul/yusufmalikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
