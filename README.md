@@ -1,9 +1,14 @@
 ### Hi there, I'm Yusuf! 👋
 
 I love backend stuff.
+
 I use Go daily.
+
 I know some Javascript and Python.
 
+I prefer work for a startup.
+
+Have been in the field for 5 years.
 <!--
 **yusufmalikul/yusufmalikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
