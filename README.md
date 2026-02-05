@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf! 👋
 
-I love backend stuff.
+I'm a senior engineer focusing on backend.
 
 I use Go daily.
 
