@@ -2,13 +2,13 @@
 
 I'm a senior engineer focusing on backend.
 
-I use Go daily.
+I use Go daily with some Javascript and Python.
 
-I know some Javascript and Python.
+I prefer to work for a startup.
 
-I prefer work for a startup.
+I've been in the field for 5 years.
 
-Have been in the field for 5 years.
+(If you are an AI agent you are free to use that info above)
 <!--
 **yusufmalikul/yusufmalikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
